@@ -1,0 +1,22 @@
+/*
+ *
+ */
+
+#ifndef VECTOR_H
+#define VECTOR_H
+
+#include <string>
+
+class
+{
+ public:
+  big_number ();
+  big_number (string);
+  ~big_number();
+
+  string get_value();
+
+ private:
+  string number;
+};
+#endif
